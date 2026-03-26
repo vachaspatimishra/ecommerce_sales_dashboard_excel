@@ -60,7 +60,7 @@ The dataset includes:
 # 📁 Project Structure
 ecommerce-sales-dashboard-excel/
 │
-├── data/
+├── dataset/
 ├── dashboard/
 ├── image/
 └── README.md
